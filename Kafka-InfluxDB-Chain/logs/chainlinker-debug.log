@@ -1,0 +1,1425 @@
+2016-07-29T11:53:33.161 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T11:54:03.366 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T11:55:22.700 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T11:55:29.514 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T11:55:43.642 [main] INFO  chainlinker.ChainLinker - Starting...
+20:56:51.343 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T11:59:29.041 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T11:59:57.159 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:00:34.018 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:00:34.020 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:00:34.020 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:00:34.028 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:00:43.343 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:00:43.344 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:00:43.345 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:00:43.351 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:00:54.567 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:02:48.242 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:02:48.244 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:02:48.244 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:02:48.251 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:03:01.514 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:03:01.515 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:03:01.516 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:03:01.523 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:03:10.474 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:03:10.478 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:03:10.479 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:03:10.486 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:07:34.354 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:07:34.356 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:07:34.357 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:07:34.363 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:08:59.131 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:08:59.133 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:08:59.134 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:08:59.140 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T12:09:05.563 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T12:09:05.567 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T12:09:05.568 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T12:09:05.574 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T21:10:42.072 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T21:10:42.074 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T21:10:42.074 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T21:10:42.080 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29T21:10:48.621 [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29T21:10:48.622 [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29T21:10:48.623 [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29T21:10:48.630 [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-29 21:12:12.326 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-29 21:12:12.328 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-29 21:12:12.329 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-29 21:12:12.335 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 14:33:09.166 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-30 14:33:09.185 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-30 14:33:09.186 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-30 14:33:09.193 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 15:10:30.633 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-30 15:10:30.635 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-30 15:10:30.636 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-30 15:10:30.643 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 15:10:30.718 KST [main] DEBUG chainlinker.ChainLinker - Subscribed to topic 'test'
+2016-07-30 15:10:30.721 KST [Thread-1] INFO  chainlinker.ChainLinker - Commencing shutdown...
+2016-07-30 15:11:51.800 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-30 15:11:51.801 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-30 15:11:51.802 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-30 15:11:51.808 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 15:11:51.867 KST [main] DEBUG chainlinker.ChainLinker - Subscribed to topic 'test'
+2016-07-30 15:11:51.870 KST [Thread-1] INFO  chainlinker.ChainLinker - Commencing shutdown...
+2016-07-30 15:12:18.744 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-30 15:12:18.745 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-30 15:12:18.747 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-30 15:12:18.753 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 15:12:18.815 KST [main] DEBUG chainlinker.ChainLinker - Subscribed to topic 'test'
+2016-07-30 15:12:18.819 KST [Thread-1] INFO  chainlinker.ChainLinker - Commencing shutdown...
+2016-07-30 15:26:49.975 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-30 15:26:49.976 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-30 15:26:49.977 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-30 15:26:49.983 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 15:26:50.041 KST [main] DEBUG chainlinker.ChainLinker - Subscribed to topic 'test'
+2016-07-30 15:28:22.462 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 33
+2016-07-30 15:28:22.725 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:22.725 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:22.730 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:22.730 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:22.731 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:22.732 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:22.733 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:22.733 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:22.734 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:22.734 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:22.735 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:22.735 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:23.453 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 34
+2016-07-30 15:28:23.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:23.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:23.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:23.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:23.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:23.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:23.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:23.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:23.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:23.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:23.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:23.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:24.455 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 35
+2016-07-30 15:28:24.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:24.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:24.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:24.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:24.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:24.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:24.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:24.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:24.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:24.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:24.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:24.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:25.456 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 36
+2016-07-30 15:28:25.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:25.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:25.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:25.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:25.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:25.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:25.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:25.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:25.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:25.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:25.467 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:25.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:26.456 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 37
+2016-07-30 15:28:26.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:26.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:26.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:26.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:26.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:26.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:26.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:26.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:26.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:26.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:26.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:26.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:27.451 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 38
+2016-07-30 15:28:27.455 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:27.455 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:27.456 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:27.456 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:27.456 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:27.456 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:27.457 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:27.457 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:27.458 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:27.458 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:27.458 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:27.458 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:28.456 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 39
+2016-07-30 15:28:28.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:28.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:28.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:28.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:28.471 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:28.471 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:28.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:28.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:28.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:28.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:28.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:28.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:29.455 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 40
+2016-07-30 15:28:29.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:29.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:29.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:29.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:29.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:29.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:29.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:29.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:29.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:29.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:29.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:29.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:30.452 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 41
+2016-07-30 15:28:30.456 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:30.456 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:30.457 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:30.457 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:30.458 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:30.458 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:30.458 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:30.458 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:30.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:30.459 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:30.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:30.459 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:31.454 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 42
+2016-07-30 15:28:31.458 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:31.458 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:31.458 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:31.458 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:31.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:31.459 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:31.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:31.459 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:31.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:31.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:31.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:31.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:32.455 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 43
+2016-07-30 15:28:32.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:32.459 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:32.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:32.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:32.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:32.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:32.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:32.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:32.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:32.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:32.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:32.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:33.459 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 44
+2016-07-30 15:28:33.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:33.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:33.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:33.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:33.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:33.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:33.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:33.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:33.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:33.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:33.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:33.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:34.456 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 45
+2016-07-30 15:28:34.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:34.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:34.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:34.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:34.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:34.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:34.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:34.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:34.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:34.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:34.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:34.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:35.456 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 46
+2016-07-30 15:28:35.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:35.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:35.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:35.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:35.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:35.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:35.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:35.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:35.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:35.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:35.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:35.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:36.455 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 47
+2016-07-30 15:28:36.459 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:36.459 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:36.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:36.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:36.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:36.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:36.460 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:36.460 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:36.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:36.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:36.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:36.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:37.458 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 48
+2016-07-30 15:28:37.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:37.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:37.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:37.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:37.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:37.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:37.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:37.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:37.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:37.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:37.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:37.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:38.459 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 49
+2016-07-30 15:28:38.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:38.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:38.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:38.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:38.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:38.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:38.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:38.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:38.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:38.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:38.464 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:38.464 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:39.458 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 50
+2016-07-30 15:28:39.461 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:39.461 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:39.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:39.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:39.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:39.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:39.462 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:39.462 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:39.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:39.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:39.463 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:39.463 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:40.461 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 51
+2016-07-30 15:28:40.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:40.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:40.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:40.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:40.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:40.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:40.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:40.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:40.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:40.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:40.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:40.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:41.462 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 52
+2016-07-30 15:28:41.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:41.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:41.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:41.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:41.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:41.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:42.462 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 53
+2016-07-30 15:28:42.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:42.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:42.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:42.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:42.465 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:42.465 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:42.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:42.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:42.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:42.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:42.466 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:42.466 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:43.461 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 54
+2016-07-30 15:28:43.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:43.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:43.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:43.469 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:43.469 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:43.469 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:43.469 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:43.469 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:43.470 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:43.470 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:43.470 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:43.470 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:44.464 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 55
+2016-07-30 15:28:44.467 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:44.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:44.467 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:44.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:44.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:44.469 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:45.463 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 56
+2016-07-30 15:28:45.467 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:45.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:45.467 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:45.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:45.467 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:45.467 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:45.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:45.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:45.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:45.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:45.468 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:45.468 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:46.465 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 57
+2016-07-30 15:28:46.469 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:46.469 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:46.469 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:46.469 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:46.470 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:46.470 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:46.470 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:46.470 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:46.470 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:46.470 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:46.471 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:46.471 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:47.468 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 58
+2016-07-30 15:28:47.471 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:47.471 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:47.471 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:47.471 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:47.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:48.473 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 59
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:48.491 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:48.492 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:48.492 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:48.492 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:48.492 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:48.492 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:49.469 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 60
+2016-07-30 15:28:49.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:49.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:49.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:49.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:49.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:49.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:49.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:49.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:49.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:49.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:49.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:49.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:50.469 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 61
+2016-07-30 15:28:50.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:50.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:50.472 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:50.472 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:50.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:50.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:50.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:50.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:50.473 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:50.473 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:50.474 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:50.474 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:51.472 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 62
+2016-07-30 15:28:51.475 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:51.475 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:51.475 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:51.475 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:51.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:52.472 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 63
+2016-07-30 15:28:52.475 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:52.475 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:52.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:52.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:52.477 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:52.478 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:53.472 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 64
+2016-07-30 15:28:53.475 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/available'.
+2016-07-30 15:28:53.475 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/available'
+java.lang.ClassNotFoundException: /intel/psutil/vm/available
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:53.475 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/free'.
+2016-07-30 15:28:53.475 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/free'
+java.lang.ClassNotFoundException: /intel/psutil/vm/free
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:53.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/vm/used'.
+2016-07-30 15:28:53.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/vm/used'
+java.lang.ClassNotFoundException: /intel/psutil/vm/used
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:53.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load1'.
+2016-07-30 15:28:53.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load1'
+java.lang.ClassNotFoundException: /intel/psutil/load/load1
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:53.476 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load15'.
+2016-07-30 15:28:53.476 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load15'
+java.lang.ClassNotFoundException: /intel/psutil/load/load15
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:53.477 KST [main] ERROR chainlinker.SnapParser - No matching parser found with data type '/intel/psutil/load/load5'.
+2016-07-30 15:28:53.477 KST [main] ERROR chainlinker.SnapParser - Failed to find data type info for given data with field name '/intel/psutil/load/load5'
+java.lang.ClassNotFoundException: /intel/psutil/load/load5
+	at chainlinker.SnapParser.parse(SnapParser.java:171) ~[classes/:?]
+	at chainlinker.SnapParser.processMessage(SnapParser.java:78) [classes/:?]
+	at chainlinker.ChainLinker.main(ChainLinker.java:71) [classes/:?]
+2016-07-30 15:28:54.251 KST [Thread-1] INFO  chainlinker.ChainLinker - Commencing shutdown...
+2016-07-30 15:29:44.921 KST [main] INFO  chainlinker.ChainLinker - Starting...
+2016-07-30 15:29:44.923 KST [main] DEBUG chainlinker.ChainLinker - Loading config file...
+2016-07-30 15:29:44.924 KST [main] DEBUG chainlinker.ConfigLoader - Loading config file...
+2016-07-30 15:29:44.930 KST [main] DEBUG chainlinker.ChainLinker - Setting up a KafkaConsumer instance...
+2016-07-30 15:29:44.987 KST [main] DEBUG chainlinker.ChainLinker - Subscribed to topic 'test'
+2016-07-30 15:29:45.146 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 65
+2016-07-30 15:29:45.368 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 66
+2016-07-30 15:29:45.396 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 67
+2016-07-30 15:29:45.405 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 68
+2016-07-30 15:29:45.414 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 69
+2016-07-30 15:29:45.431 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 70
+2016-07-30 15:29:45.441 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 71
+2016-07-30 15:29:45.457 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 72
+2016-07-30 15:29:45.466 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 73
+2016-07-30 15:29:45.473 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 74
+2016-07-30 15:29:45.480 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 75
+2016-07-30 15:29:45.488 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 76
+2016-07-30 15:29:45.495 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 77
+2016-07-30 15:29:45.508 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 78
+2016-07-30 15:29:45.521 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 79
+2016-07-30 15:29:45.528 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 80
+2016-07-30 15:29:45.538 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 81
+2016-07-30 15:29:45.545 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 82
+2016-07-30 15:29:45.555 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 83
+2016-07-30 15:29:45.572 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 84
+2016-07-30 15:29:45.580 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 85
+2016-07-30 15:29:45.597 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 86
+2016-07-30 15:29:45.604 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 87
+2016-07-30 15:29:45.610 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 88
+2016-07-30 15:29:45.626 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 89
+2016-07-30 15:29:45.633 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 90
+2016-07-30 15:29:45.640 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 91
+2016-07-30 15:29:45.647 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 92
+2016-07-30 15:29:45.654 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 93
+2016-07-30 15:29:45.659 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 94
+2016-07-30 15:29:45.665 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 95
+2016-07-30 15:29:45.680 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 96
+2016-07-30 15:29:45.685 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 97
+2016-07-30 15:29:45.691 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 98
+2016-07-30 15:29:45.697 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 99
+2016-07-30 15:29:45.706 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 100
+2016-07-30 15:29:45.711 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 101
+2016-07-30 15:29:45.727 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 102
+2016-07-30 15:29:45.739 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 103
+2016-07-30 15:29:45.745 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 104
+2016-07-30 15:29:45.750 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 105
+2016-07-30 15:29:45.764 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 106
+2016-07-30 15:29:45.768 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 107
+2016-07-30 15:29:45.774 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 108
+2016-07-30 15:29:45.789 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 109
+2016-07-30 15:29:45.794 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 110
+2016-07-30 15:29:45.799 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 111
+2016-07-30 15:29:45.814 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 112
+2016-07-30 15:29:45.820 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 113
+2016-07-30 15:29:45.834 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 114
+2016-07-30 15:29:45.840 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 115
+2016-07-30 15:29:45.847 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 116
+2016-07-30 15:29:46.520 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 117
+2016-07-30 15:29:47.523 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 118
+2016-07-30 15:29:48.523 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 119
+2016-07-30 15:29:49.526 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 120
+2016-07-30 15:29:50.524 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 121
+2016-07-30 15:29:51.522 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 122
+2016-07-30 15:29:52.524 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 123
+2016-07-30 15:29:53.525 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 124
+2016-07-30 15:29:54.525 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 125
+2016-07-30 15:29:55.526 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 126
+2016-07-30 15:29:56.527 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 127
+2016-07-30 15:29:57.528 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 128
+2016-07-30 15:29:58.526 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 129
+2016-07-30 15:29:59.531 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 130
+2016-07-30 15:30:00.531 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 131
+2016-07-30 15:30:01.534 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 132
+2016-07-30 15:30:02.530 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 133
+2016-07-30 15:30:03.532 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 134
+2016-07-30 15:30:04.532 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 135
+2016-07-30 15:30:05.533 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 136
+2016-07-30 15:30:06.535 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 137
+2016-07-30 15:30:07.537 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 138
+2016-07-30 15:30:08.534 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 139
+2016-07-30 15:30:09.537 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 140
+2016-07-30 15:30:10.539 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 141
+2016-07-30 15:30:11.540 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 142
+2016-07-30 15:30:12.541 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 143
+2016-07-30 15:30:13.541 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 144
+2016-07-30 15:30:14.542 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 145
+2016-07-30 15:30:15.546 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 146
+2016-07-30 15:30:16.545 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 147
+2016-07-30 15:30:17.546 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 148
+2016-07-30 15:30:18.545 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 149
+2016-07-30 15:30:19.547 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 150
+2016-07-30 15:30:20.549 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 151
+2016-07-30 15:30:21.552 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 152
+2016-07-30 15:30:22.551 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 153
+2016-07-30 15:30:23.550 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 154
+2016-07-30 15:30:24.554 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 155
+2016-07-30 15:30:25.556 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 156
+2016-07-30 15:30:26.551 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 157
+2016-07-30 15:30:27.552 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 158
+2016-07-30 15:30:28.552 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 159
+2016-07-30 15:30:29.555 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 160
+2016-07-30 15:30:30.554 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 161
+2016-07-30 15:30:31.555 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 162
+2016-07-30 15:30:32.555 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 163
+2016-07-30 15:30:33.554 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 164
+2016-07-30 15:30:34.557 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 165
+2016-07-30 15:30:35.554 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 166
+2016-07-30 15:30:36.558 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 167
+2016-07-30 15:30:37.559 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 168
+2016-07-30 15:30:38.559 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 169
+2016-07-30 15:30:39.561 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 170
+2016-07-30 15:30:40.563 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 171
+2016-07-30 15:30:41.563 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 172
+2016-07-30 15:30:42.562 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 173
+2016-07-30 15:30:43.559 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 174
+2016-07-30 15:30:44.564 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 175
+2016-07-30 15:30:45.565 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 176
+2016-07-30 15:30:46.565 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 177
+2016-07-30 15:30:47.570 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 178
+2016-07-30 15:30:48.572 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 179
+2016-07-30 15:30:49.567 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 180
+2016-07-30 15:30:50.572 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 181
+2016-07-30 15:30:51.568 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 182
+2016-07-30 15:30:52.575 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 183
+2016-07-30 15:30:53.574 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 184
+2016-07-30 15:30:54.576 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 185
+2016-07-30 15:30:55.573 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 186
+2016-07-30 15:30:56.574 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 187
+2016-07-30 15:30:57.576 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 188
+2016-07-30 15:30:58.574 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 189
+2016-07-30 15:30:59.574 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 190
+2016-07-30 15:31:00.576 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 191
+2016-07-30 15:31:01.581 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 192
+2016-07-30 15:31:02.577 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 193
+2016-07-30 15:31:03.578 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 194
+2016-07-30 15:31:04.581 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 195
+2016-07-30 15:31:05.580 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 196
+2016-07-30 15:31:06.581 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 197
+2016-07-30 15:31:07.585 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 198
+2016-07-30 15:31:08.581 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 199
+2016-07-30 15:31:09.583 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 200
+2016-07-30 15:31:10.586 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 201
+2016-07-30 15:31:11.584 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 202
+2016-07-30 15:31:12.586 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 203
+2016-07-30 15:31:13.585 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 204
+2016-07-30 15:31:14.585 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 205
+2016-07-30 15:31:15.585 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 206
+2016-07-30 15:31:16.584 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 207
+2016-07-30 15:31:17.588 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 208
+2016-07-30 15:31:18.596 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 209
+2016-07-30 15:31:19.589 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 210
+2016-07-30 15:31:20.590 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 211
+2016-07-30 15:31:21.589 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 212
+2016-07-30 15:31:22.590 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 213
+2016-07-30 15:31:23.591 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 214
+2016-07-30 15:31:24.590 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 215
+2016-07-30 15:31:25.590 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 216
+2016-07-30 15:31:26.594 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 217
+2016-07-30 15:31:27.590 KST [main] DEBUG chainlinker.ChainLinker - MSG. Offset = 218
+2016-07-30 15:31:27.869 KST [Thread-1] INFO  chainlinker.ChainLinker - Commencing shutdown...
